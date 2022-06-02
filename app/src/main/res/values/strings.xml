@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LT20220614</string>
+    <string name="message_default">"Please enter a value between 1 and 100"</string>
+    <string name="message_greater_than_the_hidden_number">Greater than the hidden number</string>
+    <string name="message_less_than_the_hidden_number">Less than the hidden number</string>
+    <string name="message_correct_answer">This is the correct answer</string>
 </resources>
